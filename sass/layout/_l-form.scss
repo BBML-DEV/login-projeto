@@ -1,0 +1,69 @@
+$layout-name: "l-form";
+
+.#{$layout-name}{
+    background-color: var(--color-webfatorial-white);
+    border-radius: rem(25);
+    margin: rem(30) auto;
+    padding: rem(25);
+    box-shadow: .5px 10px 15px rgba(0, 0, 0, .2);
+
+    @include breakpoint(medium-only){
+        margin: rem(50) auto;
+        padding: rem(50);
+        
+    }
+
+    .row.align-items-center{
+        align-content: center;
+        height: 100%;
+        padding: rem(50) rem(0);
+    }
+
+    #link-container{
+        text-align: center;
+        padding-top: rem(50);
+    }
+
+    .btn{
+        background-color: #7F00FF;
+        border: #7F00FF;
+        width: 100%;
+
+        @include breakpoint(medium-only){
+          width: auto;
+            
+        }
+    }
+
+    h2{
+        font-weight: rem(900);
+        margin-bottom: rem(30);
+    }
+
+    a{
+        text-decoration: none;
+        color: #222;
+
+        &:hover{
+            color: #7F00FF;
+        }
+    }
+
+    .form{
+        padding-bottom: rem(0);
+    }
+
+    .form-control{
+        border: none;
+        border-bottom: 1px solid #ccc;
+        border-radius: none;
+
+        &:focus{
+            box-shadow:none;
+        }
+    }
+
+    .form-floating label{
+        color: #222;
+    }
+}
