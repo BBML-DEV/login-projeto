@@ -11,7 +11,7 @@
 
 <hr>
 
-<p>Projeto com intuito de demnstrar a validação de E-mail e Senha utilizando metodo POST do PHP de forma HARDCODE, não foi utilizado bando de dados para armazenar o email e a senha
+<p>Projeto com intuito de demonstrar a validação de E-mail e Senha utilizando metodo POST do PHP de forma HARDCODE, não foi utilizado bando de dados para armazenar o email e a senha
  Somente os usuários cadastros de forma HardCode são <strong>válidos são eles: Email: adm@teste.com.br | senha: 123456 e Email: user@teste.com.br | senha: abcd</strong>.
 </p>
 
