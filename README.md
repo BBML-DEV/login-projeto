@@ -21,7 +21,7 @@
 
 <hr>
 
-<h3>Imagens do projeto no desktop/h3>
+<h3>Imagens do projeto no desktop</h3>
 
 ![g1](https://user-images.githubusercontent.com/66692202/153950444-8bc47a70-f40d-476b-9f79-b99ade7e616c.jpeg)
 
@@ -31,7 +31,7 @@
 
 <hr>
 
-<h3>Imagens do projeto formato mobile/h3>
+<h3>Imagens do projeto formato mobile</h3>
 
 ![g1m](https://user-images.githubusercontent.com/66692202/153950679-33886ff3-4df5-4e9d-a5ec-7615dfe356e9.jpeg)
 
